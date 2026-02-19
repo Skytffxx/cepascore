@@ -1,0 +1,6 @@
+name: CepaScore
+version: 1.0.0
+main: com.cepascore.CepaScore
+description: A comprehensive plugin with multiple feature packs
+authors: [Skytffxx]
+api-version: 1.16
